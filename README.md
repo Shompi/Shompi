@@ -8,11 +8,11 @@
 
 ### Tournaments bot for Discord developed for a Chilean Tetris Community
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shompi&repo=tetrio-tournament-helper&theme=holi)](https://github.com/github/tetrio-tournament-helper)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shompi&repo=tetrio-tournament-helper&theme=holi)](https://github.com/Shompi/tetrio-tournament-helper)
 
 ### Rust learning excercises
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shompi&repo=little-rust-projects&theme=holi)](https://github.com/github/little-rust-projects)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shompi&repo=little-rust-projects&theme=holi)](https://github.com/Shompi/little-rust-projects)
 
 ### Languages im proficient in
 
