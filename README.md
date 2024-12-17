@@ -18,7 +18,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,c)](https://skillicons.dev)
 
-### Languages I have decent knowledge in or im currently learning (2014)
+### Languages I have decent knowledge in or im currently learning (2023)
 
 [![My Skills](https://skillicons.dev/icons?i=python,rust,cpp&perline=3)](https://skillicons.dev)
 
